@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mercurio
+  - Asteroide
+  - Plataforma
+  - Pipe
+  - Ground
+  - KillZone
+  - SkyboxCamera
+  - Tierra
+  - Marte
+  - Jupiter
+  - Saturno
+  - Neptuno
+  - Urano
+  - opcion1
+  - opcion2
+  - opcion3
+  - opcion4
+  - opcion5
+  - opcion6
+  - opcion7
+  - opcion8
+  - opcion9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Post processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
